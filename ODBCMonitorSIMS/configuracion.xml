@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parametros>
+<host>localhost</host>
+<database>dusa_pedidos</database>
+<user>wapclient</user>
+<password>123</password>
+<prefijo_archivo></prefijo_archivo>
+<empresa>DUSA</empresa>
+<DSN1>DSN=AS400;uid=TRANSFTP;pwd=TRANSFTP;</DSN1>
+<DSN2>DSN=AS400CTL;uid=TRANSFTP;pwd=TRANSFTP;</DSN2>
+</parametros>
