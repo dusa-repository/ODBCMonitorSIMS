@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{8E766EF7-D797-4CA7-911B-6FEEEDF6F231}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>ODBCMonitorSIMS.Module1</StartupObject>
+    <StartupObject>ODBCMonitorSIMS.Principal</StartupObject>
     <RootNamespace>ODBCMonitorSIMS</RootNamespace>
     <AssemblyName>ODBCMonitorSIMS</AssemblyName>
     <MyType>Console</MyType>
